@@ -1,0 +1,15 @@
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.csproj.AssemblyReference.cache
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.AssemblyInfoInputs.cache
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.AssemblyInfo.cs
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.csproj.CoreCompileInputs.cache
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\bin\Debug\net6.0\CursoDGI-DOTNet.exe
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\bin\Debug\net6.0\CursoDGI-DOTNet.deps.json
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\bin\Debug\net6.0\CursoDGI-DOTNet.runtimeconfig.json
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\bin\Debug\net6.0\CursoDGI-DOTNet.dll
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\bin\Debug\net6.0\CursoDGI-DOTNet.pdb
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.dll
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\refint\CursoDGI-DOTNet.dll
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.pdb
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\CursoDGI-DOTNet.genruntimeconfig.cache
+D:\USERDATA\Documents\DEV\CursoDGI-DOTNet\obj\Debug\net6.0\ref\CursoDGI-DOTNet.dll

@@ -1,0 +1,15 @@
+D:\USERDATA\Documents\DEV\pooDotNet\bin\Debug\net6.0\pooDotNet.exe
+D:\USERDATA\Documents\DEV\pooDotNet\bin\Debug\net6.0\pooDotNet.deps.json
+D:\USERDATA\Documents\DEV\pooDotNet\bin\Debug\net6.0\pooDotNet.runtimeconfig.json
+D:\USERDATA\Documents\DEV\pooDotNet\bin\Debug\net6.0\pooDotNet.dll
+D:\USERDATA\Documents\DEV\pooDotNet\bin\Debug\net6.0\pooDotNet.pdb
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.csproj.AssemblyReference.cache
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.AssemblyInfoInputs.cache
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.AssemblyInfo.cs
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.csproj.CoreCompileInputs.cache
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.dll
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\refint\pooDotNet.dll
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.pdb
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\pooDotNet.genruntimeconfig.cache
+D:\USERDATA\Documents\DEV\pooDotNet\obj\Debug\net6.0\ref\pooDotNet.dll

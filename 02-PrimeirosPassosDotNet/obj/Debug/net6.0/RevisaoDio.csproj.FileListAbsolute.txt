@@ -1,0 +1,15 @@
+D:\USERDATA\Documents\DEV\RevisaoDio\bin\Debug\net6.0\RevisaoDio.exe
+D:\USERDATA\Documents\DEV\RevisaoDio\bin\Debug\net6.0\RevisaoDio.deps.json
+D:\USERDATA\Documents\DEV\RevisaoDio\bin\Debug\net6.0\RevisaoDio.runtimeconfig.json
+D:\USERDATA\Documents\DEV\RevisaoDio\bin\Debug\net6.0\RevisaoDio.dll
+D:\USERDATA\Documents\DEV\RevisaoDio\bin\Debug\net6.0\RevisaoDio.pdb
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.csproj.AssemblyReference.cache
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.AssemblyInfoInputs.cache
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.AssemblyInfo.cs
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.csproj.CoreCompileInputs.cache
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.dll
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\refint\RevisaoDio.dll
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.pdb
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\RevisaoDio.genruntimeconfig.cache
+D:\USERDATA\Documents\DEV\RevisaoDio\obj\Debug\net6.0\ref\RevisaoDio.dll
