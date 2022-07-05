@@ -6,8 +6,7 @@ namespace dio.series
     {
         static void Main(string[] args)
         {
-            Serie meuObjeto = new Serie(); //deixa criar o objeto
-            
+            //Serie meuObjeto = new Serie(); //deixa criar o objeto
         }
     }
 }

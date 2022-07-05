@@ -1,10 +1,12 @@
+using System;
+
 namespace dio.series
 {
     public class Serie : EntidadeBase // serie herda da entidade base
     {
         // Atributos / características
 
-        private Genero Genero { get; set; }
+        private Genero Genero { get; set; } // é um enum
 
         private string Titulo { get; set; }
 
@@ -22,7 +24,7 @@ namespace dio.series
             this.Ano = ano;
         }
 
-        public override string ToString()
+        public override string ToString() // converte obj em string 
         {
             string retorno = "";
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
